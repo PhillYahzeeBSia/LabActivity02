@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>LabActivity02</title>
+  <title>LabActivity02 </title>
 </head>
 <body>
   <h1> Home </h1>
