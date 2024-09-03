@@ -1,6 +1,5 @@
-# LabActivity02
-
 <!DOCTYPE html>
+# LabActivity02
 <html>
 <head>
   <title> LabActivity02 
