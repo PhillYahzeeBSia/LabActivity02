@@ -1,6 +1,6 @@
 # LabActivity02
 
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <title>LabActivity02</title>
