@@ -1,5 +1,4 @@
 # LabActivity02
-<!DOCTYPE html>
 <html>
 <head>
 </head>
