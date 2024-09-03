@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> My Favorite Sports </title>
+  <title> LabActivity02 </title>
 </head>
 <body>
   <h1> Home </h1>
